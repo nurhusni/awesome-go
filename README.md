@@ -1043,6 +1043,7 @@ _Libraries for handling files and file systems._
 - [tarfs](https://github.com/posener/tarfs) - Implementation of the [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) for tar files.
 - [todotxt](https://github.com/1set/todotxt) - Go library for Gina Trapani's [_todo.txt_](http://todotxt.org/) files, supports parsing and manipulating of task lists in the [_todo.txt_ format](https://github.com/todotxt/todo.txt).
 - [vfs](https://github.com/C2FO/vfs) - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - A package to convert an HTML template to a PDF file.
 
 **[⬆ back to top](#contents)**
 
